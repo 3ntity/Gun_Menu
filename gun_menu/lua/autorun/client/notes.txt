@@ -1,0 +1,2 @@
+To resolve making seperate class menu's. When the user clicks Assault or Medic or Recon etc
+just set their player model differently but open cl_menu and use the same options
