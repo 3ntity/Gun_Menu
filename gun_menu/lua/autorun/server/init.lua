@@ -17,7 +17,7 @@ resource.AddFile( "sound/gun_menu/ribboneffect.wav" )
 
 util.AddNetworkString("NetDeath") --not very creative ://
 
-hook.Add("PlayerDeath", "NetTheMedal", function()
+hook.Add("PlayerDeath", "NetTheMedal", function(pl)
 
 	net.Start("NetDeath")
 	net.Send(pl)
