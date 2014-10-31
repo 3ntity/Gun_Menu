@@ -1,3 +1,5 @@
+https://trello.com/b/VWuv158e/gun-loadout-system
+
 Medals per kills etc
 The Main Weapon Loadout Menu
 Fix some design problems and bugs up with class chooser
